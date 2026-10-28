@@ -27,7 +27,7 @@ It's not just about solving problems. It's about understanding concepts, learnin
 **SERIES:** ALTA BASE 111  
 **YEAR:** 1st Year  
 **TARGET:** 111 Problems  
-**LANGUAGES:** C++ ⚡ | Python 🐍  
+**LANGUAGES:** C++ ⚡  
 **STATUS:** Learning in Progress 🔥
 
 ## 🌟 The Goal

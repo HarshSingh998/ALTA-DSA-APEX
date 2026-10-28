@@ -27,7 +27,7 @@ Focus on understanding the logic behind every solution, optimizing approaches, a
 **SERIES:** ALTA APEX 151  
 **YEAR:** 2nd Year  
 **TARGET:** 151 Problems  
-**LANGUAGES:** C++ ⚡ | Python 🐍  
+**LANGUAGES:** C++ ⚡   
 **STATUS:** Learning in Progress 🔥
 
 ## 🌟 The Goal
