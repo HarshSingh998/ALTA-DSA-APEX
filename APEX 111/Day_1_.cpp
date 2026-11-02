@@ -6,6 +6,7 @@
 
 Write a program that takes the number of days a person has lived and estimates their age using integer division by 365, 
 printing both the whole years and the remainder days. 
+
 Input: 7305 
 Output: 20 years, 5 days
 
